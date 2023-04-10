@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Software+iOS+Engineer.++++++++++)](https://git.io/typing-svg)
 
 <h2 align="center">
-  Hi there 👋, I'm Maxime Maheo! 🇫🇷
+  Hi there 👋, I'm Maxime! 🇫🇷
 </h2>
 
 <h3 align="left">
