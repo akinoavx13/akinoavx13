@@ -1,9 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Software+iOS+Engineer.++++++++++)](https://git.io/typing-svg)
-
-<h2 align="center">
-  Hi there 👋
-</h2>
-
 <h2>
   🏆 Github Profile Trophy
 </h2>
